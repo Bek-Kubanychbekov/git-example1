@@ -3,6 +3,7 @@
 width: 28px;
 height: 28px;
 left: 100px;
+top: 13px;
 font-family: Quicksand;
 font-style: normal;
 font-weight: 500;
@@ -257,4 +258,151 @@ top: 1111px;
     position: absolute;
     left: 700px;
     top: 1111px;
+}
+#mn{
+position: absolute;
+left: -250px;
+top: 1200px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 500px;
+line-height: 625px;
+}
+#vc{
+    
+position: absolute;
+width: 536px;
+height: 160px;
+left: 1px;
+top: 1150px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 50px;
+
+text-align: center;
+
+color: #272042;
+}
+#cx{
+position: absolute;
+width: 283px;
+height: 86px;
+left: 100px;
+top: 1491px;
+}
+#xz{
+    
+position: absolute;
+width: 136px;
+height: 73px;
+left: -140px;
+top: 1650px;
+
+}
+#zk{
+    position: absolute;
+width: 148px;
+height: 73px;
+left: 100px;
+top: 1650px;
+}
+#mk{
+    position: absolute;
+width: 123px;
+height: 73px;
+left: 350px;
+top: 1650px;
+}
+#xa{
+    position: absolute;
+width: 150px;
+height: 73px;
+left: 550px;
+top: 1650px;
+}
+#ul{
+    
+position: absolute;
+left: -150px;
+top: 1800px;
+border-radius: 35px;
+
+}
+#re{
+    
+position: absolute;
+left: 330px;
+top: 1900px;
+
+}
+#gt{position: absolute;
+width: 344px;
+height: 68px;
+left: 350px;
+top: 2050px;
+font-style: normal;
+font-weight: normal;
+line-height: 34px;
+color: #8B8BA5;
+}
+#br{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: -260px;
+    top: 2460px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 35px;
+    color: #272042;
+}
+#rb{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: -300px;
+    top: 2485px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 35px;
+    color: #272042;
+}
+#po{
+    
+position: absolute;
+width: 1173px;
+height: 182px;
+left: -267px;
+top: 2508px;
+}
+#ku{
+    position: absolute;
+width: 1000px;
+height: 0px;
+left: -240px;
+top: 2800px;
+border: 1px solid #1d1b1b;
+}
+#lo{
+    position: absolute;
+    width: 1000px;
+    height: 0px;
+    left: -240px;
+    top: 2400px;
+    border: 1px solid #1d1d1d;
+}
+#pl{
+    position: absolute;
+    width: 1000px;
+    height: 0px;
+    left: -240px;
+    top: 2800px;
+    color: white;
 }
