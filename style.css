@@ -12,12 +12,9 @@ line-height: 35px;
 color: #272042;
 }
 #we{
-    
 position: absolute;
-width: 113px;
-height: 35px;
 left: 140px;
-top: -12px;
+top: 12px;
 font-family: Quicksand;
 font-style: normal;
 font-weight: 500;
@@ -216,7 +213,8 @@ line-height: 25px;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 25px;
+    line-height: 25px;x
+    color: #1c1633;
 }
 #lk{
 position: absolute;
