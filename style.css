@@ -217,3 +217,44 @@ line-height: 25px;
     font-size: 20px;
     line-height: 25px;
 }
+#lk{
+position: absolute;
+left: -390px;
+top: 797px;
+}
+#kj{
+    
+position: absolute;
+right: 215px;
+top: 797px;
+}
+#zx{
+    position: absolute;
+    left: 300px;
+    top: 797px;  
+}
+#xc{
+    position: absolute;
+    left: 650px;
+    top: 797px;  
+}
+#cv{
+position: absolute;
+left:-350px;
+top: 1111px;
+}
+#vb{
+    position: absolute;
+    left: 5px;
+    top: 1111px;
+}
+#bn{
+    position: absolute;
+    left: 340px;
+    top: 1111px;
+}
+#nm{
+    position: absolute;
+    left: 700px;
+    top: 1111px;
+}
