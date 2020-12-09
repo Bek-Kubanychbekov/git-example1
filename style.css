@@ -1,0 +1,96 @@
+#qw{
+    position: absolute;
+width: 28px;
+height: 28px;
+left: 100px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 35px;
+color: #272042;
+}
+#we{
+    
+position: absolute;
+width: 113px;
+height: 35px;
+left: 140px;
+top: -12px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 35px;
+color: #272042;
+}
+#er{
+    
+position: absolute;
+width: 455px;
+height: 23px;
+left: 200px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+text-align: right;
+color: #272042;
+}
+#rt{
+    position: absolute;
+width: 455px;
+height: 23px;
+left: 330px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+text-align: right;
+color: #bbb9c4;
+}
+#ty{
+    position: absolute;
+width: 455px;
+height: 23px;
+left: 400px;
+top: 20px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+text-align: right;
+color: #bbb9c4;
+}
+#yu{
+    position: absolute;
+    width: 455px;
+    height: 23px;
+    left: 130px;
+    top: -12px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #bbb9c4;
+}
+#ui{
+    position: absolute;
+    width: 455px;
+    height: 23px;
+    left: 230px;
+    top: -12px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #bbb9c4;
+}
+}
