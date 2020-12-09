@@ -56,7 +56,7 @@ color: #bbb9c4;
 width: 455px;
 height: 23px;
 left: 400px;
-top: 20px;
+top: 23px;
 font-family: Quicksand;
 font-style: normal;
 font-weight: 500;
@@ -70,7 +70,7 @@ color: #bbb9c4;
     width: 455px;
     height: 23px;
     left: 130px;
-    top: -12px;
+    top: -15px;
     font-family: Quicksand;
     font-style: normal;
     font-weight: 500;
@@ -84,7 +84,7 @@ color: #bbb9c4;
     width: 455px;
     height: 23px;
     left: 230px;
-    top: -12px;
+    top: -15px;
     font-family: Quicksand;
     font-style: normal;
     font-weight: 500;
@@ -93,4 +93,127 @@ color: #bbb9c4;
     text-align: right;
     color: #bbb9c4;
 }
+#io{
+position: absolute;
+width: 94px;
+height: 23px;
+left: 750px;
+top: -15px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+color: #272042;
+}
+#op{
+position: absolute;
+right: 270px;
+top: 150px;
+font-family: Quicksand;
+font-style: normal;
+font-size: 46px;
+line-height: 70px;
+color: #272042;
+}
+#pa{
+    
+position: absolute;
+width: 619px;
+height: 413px;
+left: 270px;
+top: 100px;
+border-radius: 35px;
+
+}
+#as{
+    position: absolute;
+width: 376px;
+height: 68px;
+right: 350px;
+top: 300px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 34px;
+color: #8B8BA5;
+}
+#sd{
+position: absolute;
+right: 180px;
+left: 170px;
+top: 640px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+
+}
+#df{
+position: absolute;
+width: 126px;
+top: 450px;
+left: -270px ;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 1px;
+line-height: 20px;
+text-align: right;
+
+}
+#dg{
+    
+position: absolute;
+width: 127px;
+right: 320px;
+top: 710px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+}
+#gh{
+    position: absolute;
+width: 100px;
+right:337px;
+top: 730px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+}
+#hj{
+    position: absolute;
+ left: 180px;
+    top: 710px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+}
+#jk{
+    position: absolute;
+    left: 270px;
+    top: 710px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+}
+#kl{
+    position: absolute;
+    left: 410px;
+    top: 710px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
 }
